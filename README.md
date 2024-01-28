@@ -1,6 +1,8 @@
 <div align="center">
 
-  # Chirpy Jekyll Theme
+Under Construction
+
+  <!-- # Chirpy Jekyll Theme
 
   A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 
@@ -78,4 +80,4 @@ This project is published under [MIT License][license].
 [contributors]: https://github.com/cotes2020/jekyll-theme-chirpy/graphs/contributors
 [lib]: https://github.com/cotes2020/chirpy-static-assets
 [vscode]: https://code.visualstudio.com/
-[jetbrains]: https://www.jetbrains.com/?from=jekyll-theme-chirpy
+[jetbrains]: https://www.jetbrains.com/?from=jekyll-theme-chirpy -->
