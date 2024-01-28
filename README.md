@@ -1,6 +1,12 @@
 <div align="center">
 
-Under Construction
+# 이충근 / Chungkeun Lee
+
+---
+
+Chungkeun Lee's personal website
+
+https://chungkeun-lee.github.io
 
   <!-- # Chirpy Jekyll Theme
 
